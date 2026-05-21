@@ -1,0 +1,6 @@
+{
+  "name": "Danang VIP Club",
+  "description": "프리미엄 다낭 VIP 클럽 - 5성급 호텔, 골프, 카지노, 리무진 24시간 케어 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
